@@ -1,0 +1,41 @@
+Employee ID,Trip Type,Departure Airport,Arrival Airport,Travel Class,Hotel Nights,Transport Mode,Booking Platform,Trip Date
+EMP-100245,client meeting,LHR,JFK,business,4,air,Concur,2024-01-08
+EMP-200138,conference,FRA,SIN,economy,5,air,SAP Concur,2024-01-10
+EMP-300412,project delivery,MUC,DXB,business,3,air,Navan,2024-01-12
+EMP-100245,internal review,JFK,LHR,business,0,air,Concur,2024-01-15
+EMP-410089,trade show,CDG,NRT,economy,6,air,Egencia,2024-01-17
+EMP-220055,audit support,LHR,HKG,business,7,air,Concur,2024-01-20
+EMP-300412,client pitch,DXB,BOM,economy,2,air,Navan,2024-01-22
+EMP-110034,team offsite,AMS,BCN,economy,3,air,TravelPerk,2024-01-24
+EMP-500221,executive board,LHR,JFK,first,0,air,Concur,2024-01-25
+EMP-610008,training,FRA,WAW,economy,1,air,SAP Concur,2024-01-28
+EMP-100245,client visit,LHR,DOH,business,5,air,Concur,2024-02-02
+EMP-200138,implementation,SIN,ICN,economy,4,air,SAP Concur,2024-02-05
+EMP-300412,discovery,MUC,IST,economy,3,air,Navan,2024-02-07
+EMP-700445,partnership,CDG,JNB,business,6,air,Egencia,2024-02-10
+EMP-410089,product demo,FRA,CAI,economy,2,air,Egencia,2024-02-12
+EMP-800100,regulatory,LHR,DEL,economy,8,air,Concur,2024-02-14
+EMP-200138,internal,SIN,BKK,economy,0,air,SAP Concur,2024-02-17
+EMP-900055,summit,LHR,GRU,business,5,air,TravelPerk,2024-02-19
+EMP-110034,workshop,AMS,PRG,economy,2,air,TravelPerk,2024-02-21
+EMP-100245,client review,LHR,ZRH,business,1,air,Concur,2024-02-24
+EMP-300412,LHR,LHR,delivery,economy,0,air,Navan,2024-02-26
+EMP-200138,conference,SIN,SYD,economy,6,air,SAP Concur,2024-03-01
+EMP-700445,executive meeting,CDG,PEK,business,3,air,Egencia,2024-03-04
+EMP-410089,client,FRA,MXP,economy,1,rail,Egencia,2024-03-06
+EMP-500221,board meeting,LHR,LAX,first,45,air,Concur,2024-03-08
+EMP-800100,site visit,LHR,MEL,economy,5,air,Concur,2024-03-11
+EMP-610008,offsite,FRA,HEL,economy,2,air,SAP Concur,2024-03-13
+EMP-300412,pitch,MUC,BOS,business,3,air,Navan,2024-03-15
+EMP-100245,partner,LHR,YYZ,business,4,air,Concur,2024-03-18
+EMP-200138,handover,SIN,CGK,economy,0,air,SAP Concur,2024-03-20
+EMP-110034,team meeting,AMS,BRU,economy,0,rail,TravelPerk,2024-03-22
+EMP-700445,regional review,CDG,MAD,economy,2,air,Egencia,2024-03-25
+EMP-900055,client close,LHR,DFW,business,4,air,TravelPerk,2024-03-28
+EMP-410089,training session,FRA,VIE,economy,1,air,Egencia,2024-03-30
+EMP-800100,workshop,LHR,ARN,economy,2,air,Concur,2024-04-02
+EMP-500221,investor day,LHR,ATL,first,3,air,Concur,2024-04-05
+EMP-300412,tech summit,MUC,SFO,business,5,air,Navan,2024-04-08
+EMP-200138,regional kickoff,SIN,KUL,economy,1,air,SAP Concur,2024-04-10
+EMP-100245,commercial review,LHR,IAD,business,3,air,Concur,2024-04-12
+EMP-610008,workshop,FRA,CPH,economy,2,air,SAP Concur,2024-04-15

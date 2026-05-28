@@ -1,0 +1,36 @@
+Invoice Number,Vendor Name,Plant Code,Material Description,Quantity,Unit,Currency,Posting Date,Fuel Type,Procurement Category
+INV-2024-00101,BrennstoffAG Hamburg,PLANT-DE-HH-01,Diesel B7 EN590,12500,liters,EUR,2024-01-08,diesel,fuel
+INV-2024-00102,Total Energies Deutschland GmbH,PLANT-DE-MU-01,Super Plus 98 RON,3400,gallons,EUR,2024-01-10,petrol,fuel
+INV-2024-00103,E.ON Gas Vertrieb GmbH,PLANT-DE-HH-01,Erdgas L-Gas,8200,cubic meters,EUR,2024-01-12,natural gas,energy
+INV-2024-00104,Shell Deutschland GmbH,PLANT-DE-BE-01,Diesel B7 EN590,9800,liters,EUR,14.01.2024,diesel,fuel
+INV-2024-00105,BrennstoffAG Hamburg,PLANT-DE-HH-01,LPG Flüssiggas,2100,KG,EUR,2024-01-15,lpg,fuel
+INV-2024-00106,Vattenfall Wärme AG,PLANT-DE-BE-01,Heizöl EL,5500,liters,EUR,2024-01-17,heating oil,energy
+INV-2024-00107,BP Europa SE,PLANT-DE-HH-01,Diesel B7 EN590,11000,liters,EUR,2024-01-19,diesel,fuel
+INV-2024-00108,Total Energies Deutschland GmbH,PLANT-DE-MU-01,Jet A-1 Kerosin,4800,liters,EUR,2024-01-22,kerosene,fuel
+INV-2024-00109,E.ON Gas Vertrieb GmbH,PLANT-DE-BE-01,Biogas EEG,3300,cubic meters,EUR,2024-01-24,biomass,energy
+INV-2024-00110,Shell Deutschland GmbH,PLANT-DE-HH-02,Diesel B7 EN590,15800,liters,EUR,26.01.2024,diesel,fuel
+INV-2024-00111,BrennstoffAG Hamburg,PLANT-DE-HH-01,Diesel B7 EN590,13200,liters,EUR,2024-01-28,diesel,fuel
+INV-2024-00112,Aral AG,PLANT-DE-MU-01,Super 95 E10,2900,gallons,EUR,2024-01-30,petrol,fuel
+INV-2024-00113,BrennstoffAG Hamburg,PLANT-DE-HH-01,Diesel B7 EN590,13200,liters,EUR,2024-01-31,diesel,fuel
+INV-2024-00114,,PLANT-DE-BE-01,Natural Gas (missing vendor),6500,cubic meters,EUR,2024-02-02,natural gas,energy
+INV-2024-00115,Total Energies Deutschland GmbH,PLANT-DE-HH-01,Diesel B7 EN590,9600,liters,EUR,2024-02-05,diesel,fuel
+INV-2024-00116,Vattenfall Wärme AG,PLANT-DE-BE-01,Heizöl EL,6100,liters,EUR,2024-02-07,heating oil,energy
+INV-2024-00117,BP Europa SE,PLANT-DE-MU-01,LPG Flüssiggas,-500,KG,EUR,2024-02-10,lpg,fuel
+INV-2024-00118,E.ON Gas Vertrieb GmbH,PLANT-DE-HH-02,Erdgas H-Gas,9100,cubic meters,EUR,2024-02-12,natural gas,energy
+INV-2024-00119,Shell Deutschland GmbH,PLANT-DE-BE-01,Diesel B7 EN590,11400,liters,EUR,15.02.2024,diesel,fuel
+INV-2024-00120,BrennstoffAG Hamburg,PLANT-DE-HH-01,Super Plus 98 RON,4100,BARRELS,EUR,2024-02-17,petrol,fuel
+INV-2024-00121,Aral AG,PLANT-DE-MU-01,Diesel B7 EN590,18500,liters,EUR,2024-02-20,diesel,fuel
+INV-2024-00122,Total Energies Deutschland GmbH,PLANT-DE-HH-01,Erdgas L-Gas,7200,cubic meters,EUR,2024-02-22,natural gas,energy
+INV-2024-00123,BP Europa SE,PLANT-DE-BE-01,Heizöl EL,5800,liters,EUR,2024-02-25,heating oil,energy
+INV-2024-00124,Shell Deutschland GmbH,PLANT-DE-HH-02,Diesel B7 EN590,14200,liters,EUR,2024-02-27,diesel,fuel
+INV-2024-00125,BrennstoffAG Hamburg,PLANT-DE-HH-01,LPG Flüssiggas,1800,KG,EUR,2024-03-01,lpg,fuel
+INV-2024-00126,Vattenfall Wärme AG,PLANT-DE-BE-01,Holzpellets Biomasse,12000,KG,EUR,2024-03-03,biomass,energy
+INV-2024-00127,E.ON Gas Vertrieb GmbH,PLANT-DE-HH-01,Erdgas H-Gas,10500,cubic meters,EUR,05.03.2024,natural gas,energy
+INV-2024-00128,Total Energies Deutschland GmbH,PLANT-DE-MU-01,Jet A-1 Kerosin,3900,liters,EUR,2024-03-08,kerosene,fuel
+INV-2024-00129,Aral AG,PLANT-DE-BE-01,Diesel B7 EN590,16800,liters,EUR,2024-03-10,diesel,fuel
+INV-2024-00130,BP Europa SE,PLANT-DE-HH-02,Super 95 E10,3600,gallons,EUR,2024-03-12,petrol,fuel
+INV-2024-00115,Total Energies Deutschland GmbH,PLANT-DE-HH-01,Diesel B7 EN590,9600,liters,EUR,2024-03-14,diesel,fuel
+INV-2024-00132,Shell Deutschland GmbH,PLANT-DE-HH-01,Diesel B7 EN590,MISSING,,EUR,2024-03-16,diesel,fuel
+INV-2024-00133,BrennstoffAG Hamburg,PLANT-DE-MU-01,Diesel B7 EN590,22000,liters,EUR,2024-03-18,diesel,fuel
+INV-2024-00134,Aral AG,PLANT-DE-BE-01,Erdgas L-Gas,8800,cubic meters,EUR,2024-03-20,natural gas,energy
+INV-2024-00135,Vattenfall Wärme AG,PLANT-DE-HH-01,Heizöl EL,7200,liters,EUR,2024-03-22,heating oil,energy

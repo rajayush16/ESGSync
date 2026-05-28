@@ -1,0 +1,36 @@
+Meter ID,Facility,Billing Period Start,Billing Period End,kWh Usage,Tariff Category,Utility Provider,Cost,Region
+MTR-DE-HH-001,Hamburg HQ — Office Block A,2024-01-01,2024-01-31,84250,industrial,Vattenfall Europe AG,15210.00,de
+MTR-DE-HH-002,Hamburg HQ — Office Block B,2024-01-01,2024-01-31,51300,commercial,Vattenfall Europe AG,9850.40,de
+MTR-DE-HH-003,Hamburg Distribution Center,2024-01-01,2024-01-31,142800,industrial,E.ON SE,26300.50,de
+MTR-DE-MU-001,Munich R&D Campus,2024-01-01,2024-01-31,67900,commercial,E.ON SE,12680.00,de
+MTR-DE-MU-002,Munich Manufacturing Floor,01.01.2024,31.01.2024,231500,industrial,Innogy SE,44200.00,de
+MTR-DE-BE-001,Berlin Office,2024-01-01,2024-01-31,38400,commercial,Stromnetz Berlin,7310.20,de
+MTR-UK-LN-001,London Office,2024-01-01,2024-01-31,52100,commercial,British Gas,11460.00,uk
+MTR-UK-MN-001,Manchester Warehouse,01/01/2024,31/01/2024,89300,industrial,Electricity North West,18950.00,uk
+MTR-FR-PA-001,Paris Office,2024-01-01,2024-01-31,29800,commercial,EDF,4200.00,fr
+MTR-DE-HH-001,Hamburg HQ — Office Block A,2024-02-01,2024-02-29,79600,industrial,Vattenfall Europe AG,14380.00,de
+MTR-DE-HH-002,Hamburg HQ — Office Block B,2024-02-01,2024-02-29,48700,commercial,Vattenfall Europe AG,9350.10,de
+MTR-DE-HH-003,Hamburg Distribution Center,2024-02-01,2024-02-29,138200,industrial,E.ON SE,25480.00,de
+MTR-DE-MU-001,Munich R&D Campus,2024-02-01,2024-02-29,64400,commercial,E.ON SE,12020.00,de
+MTR-DE-MU-002,Munich Manufacturing Floor,01.02.2024,29.02.2024,225800,industrial,Innogy SE,43100.00,de
+MTR-DE-BE-001,Berlin Office,2024-02-01,2024-02-29,35900,commercial,Stromnetz Berlin,6840.00,de
+MTR-UK-LN-001,London Office,2024-02-01,2024-02-29,49600,commercial,British Gas,10920.00,uk
+MTR-UK-MN-001,Manchester Warehouse,01/02/2024,29/02/2024,85100,industrial,Electricity North West,18040.00,uk
+MTR-FR-PA-001,Paris Office,2024-02-01,2024-02-29,28200,commercial,EDF,3960.00,fr
+MTR-DE-HH-001,Hamburg HQ — Office Block A,2024-03-01,2024-03-31,91300,industrial,Vattenfall Europe AG,16490.00,de
+MTR-DE-HH-002,Hamburg HQ — Office Block B,2024-03-01,2024-03-31,55800,commercial,Vattenfall Europe AG,10710.00,de
+MTR-DE-HH-003,Hamburg Distribution Center,2024-03-01,2024-03-31,148600,industrial,E.ON SE,27390.00,de
+MTR-DE-MU-001,Munich R&D Campus,2024-03-01,2024-03-31,71200,commercial,E.ON SE,13290.00,de
+MTR-DE-MU-002,Munich Manufacturing Floor,01.03.2024,31.03.2024,238900,industrial,Innogy SE,45600.00,de
+MTR-DE-BE-001,Berlin Office,2024-03-01,2024-03-31,41200,commercial,Stromnetz Berlin,7840.00,de
+MTR-UK-LN-001,London Office,2024-03-01,2024-03-31,56400,commercial,British Gas,12390.00,uk
+MTR-UK-MN-001,Manchester Warehouse,01/03/2024,31/03/2024,95700,industrial,Electricity North West,20300.00,uk
+MTR-FR-PA-001,Paris Office,2024-03-01,2024-03-31,31500,commercial,EDF,4430.00,fr
+MTR-DE-HH-003,Hamburg Distribution Center,2024-03-01,2024-03-31,489200,industrial,E.ON SE,90200.00,de
+MTR-DE-MU-002,Munich Manufacturing Floor,2024-04-01,2024-04-30,,industrial,Innogy SE,,de
+MTR-DE-BE-001,Berlin Office,2024-04-01,2024-01-31,38900,commercial,Stromnetz Berlin,7410.00,de
+MTR-DE-HH-001,Hamburg HQ — Office Block A,2024-04-01,2024-04-30,88100,industrial,Vattenfall Europe AG,15910.00,de
+MTR-DE-HH-002,Hamburg HQ — Office Block B,2024-04-01,2024-04-30,52900,commercial,Vattenfall Europe AG,10150.00,de
+MTR-DE-MU-001,Munich R&D Campus,2024-04-01,2024-04-30,68800,commercial,E.ON SE,12850.00,de
+MTR-UK-LN-001,London Office,2024-04-01,2024-04-30,0,commercial,British Gas,0.00,uk
+MTR-AU-SY-001,Sydney Office,2024-04-01,2024-04-30,43600,commercial,Origin Energy,9850.00,au
