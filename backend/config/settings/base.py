@@ -147,6 +147,9 @@ CELERY_TIMEZONE = "UTC"
 CELERY_TASK_TRACK_STARTED = True
 CELERY_TASK_TIME_LIMIT = 30 * 60
 CELERY_TASK_SOFT_TIME_LIMIT = 25 * 60
+# Windows: prefork pool uses shared-memory semaphores which Windows restricts.
+# solo pool runs tasks in the main process — correct for local dev on Windows.
+CELERY_WORKER_POOL = "solo"
 
 CACHES = {
     "default": {
